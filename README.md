@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This is not maintained or tested recently.
+
 # GitHub Action for GOV.UK PaaS
 
 GitHub Action for use with the GOV.UK PaaS Cloud Foundry command line interface Docker image.
